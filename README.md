@@ -10,6 +10,8 @@ Full Stack Developer
 
 * 🖥️  See my portfolio at [darifelmehdi.netlify.app](http://darifelmehdi.netlify.app/)
 
+* ✉️  Check out my : [CodePen](https://codepen.io/darifelmehdi) && [CSSBattle](https://cssbattle.dev/player/darifelmehdi)
+
 * ✉️  You can contact me at [elmehdi\_darif@um5.ac.ma](mailto:elmehdi_darif@um5.ac.ma)
 
 * 🤝  I'm open to collaborating on Interesting projects
